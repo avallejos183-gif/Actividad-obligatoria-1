@@ -1,0 +1,2 @@
+Primera noticia|Contenido de la primera noticia
+Segunda noticia|Contenido de la segunda noticia
